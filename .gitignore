@@ -32,4 +32,4 @@
 *.app
 
 #LSP
-.ccls-cache/
+.ccls-cache
